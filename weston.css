@@ -1,0 +1,50 @@
+body {
+background-color: #ECCD2B;	
+}
+h2 {
+	border: solid #E0A70E;
+	background-color: #E0A70E;
+	font-family: 'Vast Shadow', cursive;
+}
+h3 {
+	border: solid #E0A70E;
+	background-color: #E0A70E;
+}
+
+.topnav{
+  list-style-type: none;
+  overflow: hidden;
+  background-color: #3498eb;
+}
+li a {
+  padding: 14px 16px;
+  float: left;
+  text-align: center;
+  font-size: 17px; 
+}
+li a:hover{
+	background-color: white;
+}
+
+input[type=text] {
+	border: 4px solid #E0A70E;
+}
+input[type=password] {
+	border: 4px solid red;
+}
+input[type=Email] {
+	border: 4px solid #E0A70E;
+}
+input[type=Contact] {
+	border: 4px solid #E0A70E;
+}
+div {
+	overflow: hidden;
+}
+.rightlink{
+	float: right;
+}
+.rightlink a.active{
+	background-color: #04AA6D;
+	}
+

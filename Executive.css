@@ -1,0 +1,29 @@
+body{
+	background-color: #fc8403;
+}
+h1{
+	border: solid #f7ba11;
+	background-color: #f7ba11;
+  font-family: 'Vast Shadow', cursive;
+}
+p {
+	border: 1px solid black;
+}
+ul {
+  list-style-type: none;
+  overflow: hidden;
+ font-size: 17px;
+}
+li a {
+  border: 1px solid black;
+  padding: 10px;
+  display: block;
+  width: 150px;
+  background-color: #f7ba11;
+  
+}
+li {
+  float: left;
+
+
+}
